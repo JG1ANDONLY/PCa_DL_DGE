@@ -1,0 +1,4 @@
+*.Rhistory
+*.history
+*.ipynb_checkpoints
+*.RData
