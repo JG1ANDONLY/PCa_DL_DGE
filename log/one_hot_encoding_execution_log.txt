@@ -1,0 +1,2 @@
+[NbConvertApp] Converting notebook one_hot_encoding.ipynb to notebook
+[NbConvertApp] Writing 48230 bytes to one_hot_encoding.ipynb
