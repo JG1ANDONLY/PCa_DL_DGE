@@ -1,2 +1,0 @@
-[NbConvertApp] Converting notebook sequence_fetching.ipynb to notebook
-[NbConvertApp] Writing 109078 bytes to sequence_fetching.ipynb
