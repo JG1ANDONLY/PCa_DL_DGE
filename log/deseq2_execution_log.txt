@@ -3,8 +3,8 @@
 [NbConvertApp] Writing 53885 bytes to preprocessing.ipynb
 [66%] Starting diff_gene_expr.ipynb...
 [NbConvertApp] Converting notebook diff_gene_expr.ipynb to notebook
-[NbConvertApp] Writing 65240 bytes to diff_gene_expr.ipynb
+[NbConvertApp] Writing 65244 bytes to diff_gene_expr.ipynb
 [100%] Starting sequence_fetching.ipynb...
 [NbConvertApp] Converting notebook sequence_fetching.ipynb to notebook
-[NbConvertApp] Writing 108779 bytes to sequence_fetching.ipynb
+[NbConvertApp] Writing 108845 bytes to sequence_fetching.ipynb
 [100%] Done.
